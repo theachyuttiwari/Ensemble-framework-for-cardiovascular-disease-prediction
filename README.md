@@ -3,3 +3,14 @@ Heart disease is the major cause of non-communicable and silent death worldwide.
 
 
 Journal Paper can be access at www.achyuttiwari.com/openjournal or www.achyuttiwari.com/journal
+
+
+Data Set - https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive
+
+
+
+For More info- 
+
+Contact
+Dr. Aman Sharma
+amans.3008@gmail.com 
