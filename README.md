@@ -13,7 +13,6 @@ Data Set employed can be accessed  - https://ieee-dataport.org/open-access/heart
 In case any queries about this work, feel free to contact with this email id:
 Dr. Aman Sharma
 amans.3008@gmail.com 
-
 OR
 Achyut Tiwari
 research@achyuttiwari.com
